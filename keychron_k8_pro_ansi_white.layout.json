@@ -230,10 +230,10 @@
     ],
     [
       "KC_ESC",
-      "MACRO(0)",
+      "MACRO(6)",
       "KC_F2",
-      "MACRO(10)",
-      "MACRO(9)",
+      "MACRO(8)",
+      "MACRO(7)",
       "MACRO(5)",
       "MACRO(1)",
       "MACRO(4)",

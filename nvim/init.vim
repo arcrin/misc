@@ -35,8 +35,9 @@ nnoremap <leader>Y "+Y
 nnoremap <leader>p "+p
 
 " Delete without affecting the default register
-nnoremap <leader>d "_dd
+nnoremap <leader>dd "_dd
 vnoremap <leader>d "_d
+nnoremap <leader>dw "_dw
 
 " Make <C-c> behave like <Esc> in Insert mode
 inoremap <C-c> <Esc>
@@ -54,3 +55,5 @@ set incsearch
 
 " Keep cursor 11 lines from the top/bottom when scrolling
 set scrolloff=11
+
+set cmdheight=4
